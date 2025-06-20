@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fancyclub/static/css/main.a401ac3f.css",
-    "main.js": "/fancyclub/static/js/main.e8bfcb6b.js",
+    "main.js": "/fancyclub/static/js/main.a218efaf.js",
     "static/js/453.7efa735f.chunk.js": "/fancyclub/static/js/453.7efa735f.chunk.js",
     "index.html": "/fancyclub/index.html",
     "main.a401ac3f.css.map": "/fancyclub/static/css/main.a401ac3f.css.map",
-    "main.e8bfcb6b.js.map": "/fancyclub/static/js/main.e8bfcb6b.js.map",
+    "main.a218efaf.js.map": "/fancyclub/static/js/main.a218efaf.js.map",
     "453.7efa735f.chunk.js.map": "/fancyclub/static/js/453.7efa735f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a401ac3f.css",
-    "static/js/main.e8bfcb6b.js"
+    "static/js/main.a218efaf.js"
   ]
 }
